@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kumar Satyam</h1>
 <h3 align="center">An Aspiring DevOps Engineer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksatyam96&label=Profile%20views&color=0e75b6&style=flat" alt="ksatyam96" /> </p>
 
 - 🔭 I’m currently working on [DevOps Tools Learning](https://github.com/jaiswaladi246/30-Days-Of-DevOps)
